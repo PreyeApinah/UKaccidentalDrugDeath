@@ -1,7 +1,5 @@
 # UK Accidental Drug Deaths
 
-![Dashboard](UK Accidental Drug deaths Dashboard.png) 
-
 # Problem Statement 
 Drug-related deaths in the UK are a major public health concern, with alarming trends indicating a growing problem. Despite efforts to mitigate this issue, the number of individuals losing their lives due to drug overdoses and related complications has been on the rise. This crisis not only impacts the affected individuals and their families but also poses a significant public health challenge. A clear understanding of the underlying causes, patterns, and demographics associated with these deaths is essential to formulate effective intervention strategies and policies that can reverse this alarming trend.
 
@@ -16,8 +14,8 @@ The dataset was gotten from [Data.Gov](https://catalog.data.gov/dataset/accident
 
 # Methodology
 The process involved  data cleaning which was done using Microsoft Excel power query. 
-Since the dataset was quite large, it was imported into SQL server database to query. At the end the data results were  visualized on [Tableau](https://public.tableau.com/app/profile/ayebapreye.apinah/viz/UKAccidentalDrugDeaths/UKAccidentalDrugdeaths) 
- 
+Since the dataset was quite large, it was imported into SQL server database to query. At the end the data results were  visualized on [Tableau](https://public.tableau.com/app/profile/ayebapreye.apinah/viz/UKAccidentalDrugDeaths/UKAccidentalDrugdeaths). 
+
 # Questions
 
 1. What is the total number of deaths due to drug-related incidents? 
