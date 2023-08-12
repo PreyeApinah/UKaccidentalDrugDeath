@@ -1,5 +1,7 @@
 # UK Accidental Drug Deaths
 
+![Dashboard] (https://github.com/PreyeApinah/UKaccidentalDrugDeath/blob/6bbe1ca7102bd34525a2408043704aab921afa13/UK%20Accidental%20Drug%20deaths%20Dashboard.png)
+
 # Problem Statement 
 Drug-related deaths in the UK are a major public health concern, with alarming trends indicating a growing problem. Despite efforts to mitigate this issue, the number of individuals losing their lives due to drug overdoses and related complications has been on the rise. This crisis not only impacts the affected individuals and their families but also poses a significant public health challenge. A clear understanding of the underlying causes, patterns, and demographics associated with these deaths is essential to formulate effective intervention strategies and policies that can reverse this alarming trend.
 
