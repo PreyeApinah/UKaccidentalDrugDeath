@@ -42,8 +42,7 @@ Since the dataset was quite large, it was imported into SQL server database to q
 
 # Insights
 
-The analysis showed that there was a total of  9189   
-drug related deaths reported  between 2012-2021 and the average age of victims was 43years with the middle age bracket most affected. 
+The analysis showed that there was a total of  9189 drug related deaths reported  between 2012-2021 and the average age of victims was 43years with the middle age bracket most affected. 
 
 In race demographics, the white population had a very disturbing high percentage 86. 43%  of the whole, with 7943 cases out of 9189, this results raises questions about the  factors that contribute to this trend.
 
